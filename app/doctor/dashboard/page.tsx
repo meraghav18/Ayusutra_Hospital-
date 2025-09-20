@@ -247,7 +247,7 @@ export default function DoctorDashboard() {
               </CardContent>
             </Card>
 
-            {/* Recent Patients */}
+       
             <Card>
               <CardHeader>
                 <CardTitle>Recent Patients</CardTitle>
